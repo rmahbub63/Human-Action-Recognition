@@ -50,3 +50,8 @@ https://arxiv.org/pdf/1807.02947.pdf
 https://arxiv.org/pdf/1808.04228.pdf
 20. Temporal-Spatial Mapping for Action Recognition
 https://arxiv.org/pdf/1809.03669.pdf
+
+
+Important Blog Post:
+1. Deep Dive into Convolutional 3D features for action and activity recognition (C3D)
+https://medium.com/@nair.binum/quick-overview-of-convolutional-3d-features-for-action-and-activity-recognition-c3d-138f96d58d8f
