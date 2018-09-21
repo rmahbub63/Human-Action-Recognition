@@ -10,6 +10,8 @@ Usefull Link:
   http://www.cvc.uab.es/~bhaskar/
 
 # Important Research Paper
+0. Human Action Localization with Sparse Spatial Supervision
+  https://arxiv.org/pdf/1605.05197.pdf
 1. Do less and achieve more: Training CNNs for action recognition utilizing action images from the Web
   https://www.sciencedirect.com/science/article/pii/S0031320317300353
 2. Going deeper into action recognition: A survey
